@@ -4,10 +4,25 @@
 
 body{
 
-    background-image: url("https://data.whicdn.com/images/260255716/original.gif");
+    /* background-image: url("https://data.whicdn.com/images/260255716/original.gif"); */
 
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUkOTodQ2AMHOFFL06_VJ9XFBUGlcHhO4Cw0na5Imhr3IGoMBwNw&s");
 
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+#header{
+    margin-top: 100px;
+}
+
+
+.jumbotron{
+    background-image: url("https://data.whicdn.com/images/260255716/original.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#profi_img{
+    width: 60%;
 }
