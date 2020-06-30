@@ -2,6 +2,33 @@
     color: rgb(83, 95, 95);
 }
 
+
+
+#myname{
+    color: aliceblue;
+}
+
+.name_span{
+    color: rgb(55, 206, 186);
+}
+
+#contact_info p{
+    color: aliceblue;
+}
+
+#github_link, #linkedin_link{
+    color: rgb(55, 206, 186);
+    text-decoration: none;
+
+}
+
+#github_link:hover, #linkedin_link:hover{
+    text-shadow: 0.5em 0.2em 0.2em azure;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+
 body{
 
     /* background-image: url("https://data.whicdn.com/images/260255716/original.gif"); */
@@ -17,11 +44,11 @@ body{
 }
 
 
-.jumbotron{
+/* .jumbotron{
     background-image: url("https://data.whicdn.com/images/260255716/original.gif");
     background-size: cover;
     background-repeat: no-repeat;
-}
+} */
 
 #profi_img{
     width: 60%;
